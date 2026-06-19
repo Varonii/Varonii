@@ -42,9 +42,24 @@
 <br>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Varoni" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/647119555902046239?theme=dark&bg=A3C585&hideDiscord=true&layout=bar" alt="Spotify recently played" />
-  </a>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <!-- Gatinho da Esquerda -->
+      <td valign="middle" style="border: none;">
+        <img src="./giphy.gif" height="200" style="margin-right: 15px;" />
+      </td>
+      <!-- Widget do Spotify -->
+      <td valign="middle" style="border: none;">
+        <a href="https://open.spotify.com/user/Varoni" target="_blank">
+          <img src="https://lanyard.cnrad.dev/api/647119555902046239?theme=dark&bg=A3C585&hideDiscord=true" alt="Spotify recently played" />
+        </a>
+      </td>
+      <!-- Gatinho da Direita (Invertido) -->
+      <td valign="middle" style="border: none;">
+        <img src="./giphy.gif" height="200" style="margin-left: 15px; transform: scaleX(-1);" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
