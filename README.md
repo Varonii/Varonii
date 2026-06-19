@@ -80,8 +80,6 @@
 <hr>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varonii/Varonii/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varonii/Varonii/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Varonii/Varonii/pacman-output/breakout-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Varonii/Varonii/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
