@@ -25,16 +25,16 @@
 
 <h2 align="left">🐧 About Me</h2>
 
-<!-- Tabela para deixar o texto na esquerda e o novo GIF na direita -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top">
+<!-- Tabela sem bordas visíveis e com alinhamento vertical centralizado -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td valign="middle" style="border: none; padding-right: 15px;">
       <p align="left">Besides coding and UI/UX design, I’m really into sports like gym, football, and skating, and I also love gaming in my free time.</p>
       <p align="left">Music is a huge part of my life—I listen to a bit of everything, and it keeps me inspired while working out or prototyping screens.</p>
       <p align="left">Speaking of which, here is what I’ve been listening to lately:</p>
     </td>
-    <td width="160" valign="top" align="right" style="padding-left: 15px;">
-      <img width="150" src="https://media.tenor.com/7gK5YhOf0m0AAAAC/cool-cats-cats-with-sunglasses.gif" />
+    <td width="220" valign="middle" align="right" style="border: none;">
+      <img width="190" src="./cool-cats.gif" style="display: block;" />
     </td>
   </tr>
 </table>
@@ -42,8 +42,8 @@
 <br>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Varoni">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Varoni&count=3&unique=false" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/user/Varoni" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/647119555902046239?theme=dark&bg=A3C585&hideDiscord=true&layout=bar" alt="Spotify recently played" />
   </a>
 </div>
 
