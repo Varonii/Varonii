@@ -1,6 +1,3 @@
-<div>
-  <img style="width: 100%;" style="margin-bottom: 0px;" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=merko" />
-</div>
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="42" style="vertical-align: middle; margin-left: 10px;" />
@@ -25,7 +22,6 @@
 
 <h2 align="left">🐧 About Me</h2>
 
-<!-- Tabela sem bordas visíveis e com alinhamento vertical centralizado -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td valign="middle" style="border: none; padding-right: 15px;">
@@ -44,17 +40,14 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <!-- Gatinho da Esquerda -->
       <td valign="middle" style="border: none;">
         <img src="./giphy.gif" height="200" style="margin-right: 15px;" />
       </td>
-      <!-- Widget do Spotify -->
       <td valign="middle" style="border: none;">
         <a href="https://open.spotify.com/user/Varoni" target="_blank">
           <img src="https://lanyard.cnrad.dev/api/647119555902046239?theme=dark&bg=A3C585&hideDiscord=true" alt="Spotify recently played" />
         </a>
       </td>
-      <!-- Gatinho da Direita (Invertido) -->
       <td valign="middle" style="border: none;">
         <img src="./giphy.gif" height="200" style="margin-left: 15px; transform: scaleX(-1);" />
       </td>
@@ -87,6 +80,8 @@
 <hr>
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Varonii/Varonii/snake-output/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varonii/Varonii/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varonii/Varonii/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Varonii/Varonii/pacman-output/breakout-contribution-graph.svg">
+</picture>
