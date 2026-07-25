@@ -27,7 +27,6 @@
     <td valign="middle" style="border: none; padding-right: 15px;">
       <p align="left">Besides coding and UI/UX design, I’m really into sports like gym, football, and skating, and I also love gaming in my free time.</p>
       <p align="left">Music is a huge part of my life—I listen to a bit of everything, and it keeps me inspired while working out or prototyping screens.</p>
-      <p align="left">Speaking of which, here is what I’ve been listening to lately:</p>
     </td>
     <td width="220" valign="middle" align="right" style="border: none;">
       <img width="190" src="./cool-cats.gif" style="display: block;" />
@@ -36,24 +35,6 @@
 </table>
 
 <br>
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td valign="middle" style="border: none;">
-        <img src="./giphy.gif" height="200" style="margin-right: 15px;" />
-      </td>
-      <td valign="middle" style="border: none;">
-        <a href="https://open.spotify.com/user/Varoni" target="_blank">
-          <img src="https://lanyard.cnrad.dev/api/647119555902046239?theme=dark&bg=A3C585&hideDiscord=true" alt="Spotify recently played" />
-        </a>
-      </td>
-      <td valign="middle" style="border: none;">
-        <img src="./giphy.gif" height="200" style="margin-left: 15px; transform: scaleX(-1);" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
