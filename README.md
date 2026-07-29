@@ -13,7 +13,7 @@
       <img height="100" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" style="max-width: none;" />
     </td>
     <td valign="middle" style="padding-left: 20px;">
-      <p>I'm Varonii, a Software Engineering student passionate about bridging the gap between robust logic and fluid user experiences. Currently, I am expanding my web development skills by writing logical applications in JavaScript and Python, while actively prototyping intuitive interfaces.</p>
+      <p>I'm Varonii, a Software Engineering student passionate about bridging the gap between robust logic and fluid user experiences. Currently, I am expanding my web development skills by writing logical applications in Java, JavaScript and Python, while actively prototyping intuitive interfaces.</p>
     </td>
   </tr>
 </table>
