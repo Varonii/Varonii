@@ -25,7 +25,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td valign="middle" style="border: none; padding-right: 15px;">
-      <p align="left">Besides coding and design, I’m really into sports like gym, football, and skating, and I also love gaming in my free time.</p>
+      <p align="left">Besides coding and design, I’m really into sports like gym, football, skating and surfing in my free time.</p>
       <p align="left">Music is a huge part of my life—I listen to a bit of everything, and it keeps me inspired while working out or prototyping screens.</p>
     </td>
     <td width="220" valign="middle" align="right" style="border: none;">
