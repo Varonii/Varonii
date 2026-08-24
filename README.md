@@ -25,7 +25,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td valign="middle" style="border: none; padding-right: 15px;">
-      <p align="left">Besides coding and UI/UX design, I’m really into sports like gym, football, and skating, and I also love gaming in my free time.</p>
+      <p align="left">Besides coding and design, I’m really into sports like gym, football, and skating, and I also love gaming in my free time.</p>
       <p align="left">Music is a huge part of my life—I listen to a bit of everything, and it keeps me inspired while working out or prototyping screens.</p>
     </td>
     <td width="220" valign="middle" align="right" style="border: none;">
@@ -55,14 +55,19 @@
 
 <br>
 
-<h2 align="left">👀 Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  <a href="https://open.spotify.com/user/ytuo7eo9m5b87rwf5yen2ir1q" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo" />
+  <!-- LinkedIn -->
+  <a href="(https://www.linkedin.com/in/thiago-varoni/)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:thiago.varoni.araujo@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  
 </div>
 
 <br>
