@@ -6,12 +6,12 @@
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="120" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="120" valign="top" style="border: none;">
       <img height="100" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" style="max-width: none;" />
     </td>
-    <td valign="middle" style="padding-left: 20px;">
+    <td valign="middle" style="padding-left: 20px; border: none;">
       <p>I'm Varonii, a Software Engineering student passionate about bridging the gap between robust logic and fluid user experiences. Currently, I am expanding my web development skills by writing logical applications in Java, JavaScript and Python, while actively prototyping intuitive interfaces.</p>
     </td>
   </tr>
@@ -28,33 +28,36 @@
       <p align="left">Music is a huge part of my life—I listen to a bit of everything, and it keeps me inspired while working out or prototyping screens.</p>
     </td>
     <td width="220" valign="middle" align="right" style="border: none;">
-      <img width="190" src="./cool-cats.gif" style="display: block;" />
+      <img width="190" src="./cat2u.gif" style="display: block;" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="left">💻 Technologies</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-</div>
-
-<br>
-
-<h2 align="left">🛠️ Tools</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td valign="top" width="50%" style="border: none;">
+      <h2 align="left">💻 Technologies</h2>
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+      </div>
+    </td>
+    <td valign="top" width="50%" style="border: none;">
+      <h2 align="left">🛠️ Tools</h2>
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -68,7 +71,7 @@
 <br>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Varonii/Varonii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Varonii/Varonii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 <br>
@@ -78,12 +81,12 @@
 <div align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thiago-varoni/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/public/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
   </a>
   
   <!-- Gmail -->
   <a href="mailto:thiago.varoni.araujo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="gmail logo" />
   </a>
 </div>
 
