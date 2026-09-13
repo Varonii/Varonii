@@ -1,90 +1,93 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="42" style="vertical-align: middle; margin-left: 10px;" />
-  Hey What's Up? 
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="42" style="vertical-align: middle; margin-left: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40" style="vertical-align: middle; margin-right: 10px;" />
+  Hi, I'm Thiago Varoni
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40" style="vertical-align: middle; margin-left: 10px;" />
 </h1>
 
-<br>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="120" valign="top" style="border: none;">
-      <img height="100" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" style="max-width: none;" />
-    </td>
-    <td valign="middle" style="padding-left: 20px; border: none;">
-      <p>I'm Varonii, a Software Engineering student passionate about bridging the gap between robust logic and fluid user experiences. Currently, I am expanding my web development skills by writing logical applications in Java, JavaScript and Python, while actively prototyping intuitive interfaces.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">Software Engineering student · Fullstack developer in the making · Open to internship opportunities</p>
 
 <br>
 
-<h2 align="left">🐧 About Me</h2>
+<img align="left" height="100" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" style="margin-right: 20px;" />
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td valign="middle" style="border: none; padding-right: 15px;">
-      <p align="left">Besides coding and design, I’m really into sports like gym, football, skating and surfing in my free time.</p>
-      <p align="left">Music is a huge part of my life—I listen to a bit of everything, and it keeps me inspired while working out or prototyping screens.</p>
-    </td>
-    <td width="220" valign="middle" align="right" style="border: none;">
-      <img width="190" src="./cat2u.gif" style="display: block;" />
-    </td>
-  </tr>
-</table>
+I'm a first-year Software Engineering student focused on fullstack development. I enjoy the balance between solid logic on the backend and clean, intuitive interfaces on the front — and I'm currently looking for an internship where I can put that into practice.
+
+<br clear="left"/>
+<br>
+
+<h2 align="left">Currently</h2>
+
+<ul>
+  <li>Studying Software Engineering (1st year)</li>
+  <li>Learning JavaScript and Next.js in depth</li>
+  <li>Building Iron app, a workout tracking web application</li>
+  <li>Updating weekly my personal portfolio</li>
+</ul>
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
-      <h2 align="left">💻 Technologies</h2>
-      <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-      </div>
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-      <h2 align="left">🛠️ Tools</h2>
-      <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<h2 align="left">When I'm Not Coding 🏄</h2>
+
+<img align="right" width="190" src="./cat2u.gif" style="margin-left: 20px;" />
+
+Outside of code, you'll usually find me at the gym, on a football field, trying to catch a wave or skating.
+
+Music is always playing in the background — a bit of everything, depending on whether I'm working out or deep in a prototype.
+
+<br clear="right"/>
+
+<br> 
+
+<h2 align="left">Technologies</h2> 
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
+</div> 
+
+<br> 
+
+<h2 align="left">Tools</h2> 
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</div> 
 
 <br>
 
-<h2 align="left">📂 Featured Project</h2>
+<h2 align="left">Projects</h2>
+
 <p align="left">
-  <a href="https://varonii.github.io/Portifolio/" target="_blank">🌐 My Personal Portfolio</a>
-  <br><br>
-  A dedicated web space created to showcase my evolving front-end development skills, responsive layouts, and logic exercises. Built using semantic web standards and styled with modern design choices.
+  🏋️ <b>Iron app</b> — a web application built to manage workout routines, monitor real-time exercise performance, and track fitness progress.
+</p>
+
+<p align="left">
+  🌐 <a href="https://varonii.github.io/Portifolio/" target="_blank">Personal Portfolio</a> — where I showcase my front-end work, responsive layouts, and logic exercises.
 </p>
 
 <br>
 
-<div data-importer="stats" align="center">
+<h2 align="left">GitHub Stats</h2>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Varonii/Varonii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Varonii&theme=dracula&hide_border=false" height="150"/>
 </div>
 
 <br>
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="left">Let's Connect</h2>
+
+<p align="left">Open to internship opportunities and always up for a good conversation about code and projects.</p>
 
 <div align="left">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thiago-varoni/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/public/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
   </a>
-  
-  <!-- Gmail -->
   <a href="mailto:thiago.varoni.araujo@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="gmail logo" />
   </a>
