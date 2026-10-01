@@ -69,6 +69,10 @@ Music is always playing in the background — a bit of everything, depending on 
   🌐 <a href="https://varonii.github.io/Portifolio/" target="_blank">Personal Portfolio</a> — where I showcase my front-end work, responsive layouts, and logic exercises.
 </p>
 
+<p align="left">
+  ⏱️ <a href="https://varonii.github.io/Pomodoit/" target="_blank">PomoDoIT</a> — a web app created to enhance focus, structure study or work intervals, and optimize daily time management.
+</p>
+
 <br>
 
 <h2 align="left">GitHub Stats</h2>
