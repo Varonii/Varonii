@@ -73,6 +73,10 @@ Music is always playing in the background — a bit of everything, depending on 
   ⏱️ <a href="https://varonii.github.io/Pomodoit/" target="_blank">PomoDoIT</a> — a web app created to enhance focus, structure study or work intervals, and optimize daily time management.
 </p>
 
+<p align="left">
+  🤖 <a href="https://github.com/Varonii/price-monitoring-bot/" target="_blank">Price Tracker Bot</a> — a Python bot that monitors Amazon product prices, stores tracked items in an SQLite database, and sends Telegram notifications when prices drop.
+</p>
+
 <br>
 
 <h2 align="left">GitHub Stats</h2>
